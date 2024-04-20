@@ -1,0 +1,19 @@
+  .navbar {
+    background: #003153	;
+    padding-left: 40px;
+  }
+  
+  .item {
+    margin-bottom: 10px;
+  }
+
+  .item a {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    text-transform: uppercase;
+  }
+
+
+  .active {
+    color: black;
+  }

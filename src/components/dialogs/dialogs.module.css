@@ -1,0 +1,40 @@
+.dialogs {
+    height: 100%;
+    display: grid;
+    grid-template-columns: 3fr 10fr;
+}
+
+.chat {
+    padding: 20px;
+}
+.message {
+    background-color: rgb(248, 245, 245);
+
+}
+
+.title {
+    padding-bottom: 10px;
+    font-size: 22px;
+    color: rgb(60, 42, 27);
+}
+
+.switch {
+    padding: 10px 20px;
+    margin: 0 -20px;
+    border-top: 1px solid gray;
+}
+
+.switch a {
+    margin-right: 10px;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.chat_list {
+    padding: 0px 20px;
+    margin: 20px -20px 0;
+    border-top: 1px solid gainsboro;
+}
+
+

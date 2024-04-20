@@ -1,0 +1,23 @@
+.user {
+    padding: 0 30px;
+}
+
+.logo {
+    display: flex;
+    padding: 50px 0px;
+    align-items: center;
+}
+
+.logo img {
+    width: 100px;
+    height: 100px;
+}
+
+.descr {
+    padding: 0 100px;
+}
+
+.item {
+    font-size: 18px;
+
+}
